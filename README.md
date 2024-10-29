@@ -4,7 +4,7 @@ Total number of images:1912images
 
 Among them: Cracking（427）Layer_shifting（364） Off_platform（91） Stringing（447） Warping（538）
 ## Download
-The dataset can be downloaded from [Google Drive](https://drive.google.com/file/d/1kRmKws66yzoQFHBcoUd4sF6HLPnHlXE4/view?usp=sharing)
+The dataset can be downloaded from:[Google Drive](https://drive.google.com/file/d/1kRmKws66yzoQFHBcoUd4sF6HLPnHlXE4/view?usp=sharing)
 
 The dataset can also be downloaded from:[Kaggle](https://www.kaggle.com/datasets/wengmhu/fdm-3d-printing-defect-dataset)
 ## How to cite
