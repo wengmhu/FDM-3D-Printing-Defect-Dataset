@@ -14,7 +14,7 @@ Hu, W., Chen, C., Su, S. et al. Real-time defect detection for FFF 3D printing u
 
 MIT License
 
-Copyright (c) 2024 wengmhu
+Copyright (c) 2024 Hu Wenjing, ChenChang
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
